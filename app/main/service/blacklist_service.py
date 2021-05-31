@@ -1,6 +1,8 @@
 from app.main import db
+# from .. import db
 
 from app.main.model.blacklist import BlacklistToken
+# from ..model.blacklist import BlacklistToken
 from typing import Dict, Tuple
 
 

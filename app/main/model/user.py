@@ -2,6 +2,7 @@
 from .. import db, flask_bcrypt
 import datetime
 from app.main.model.blacklist import BlacklistToken
+# from ..model.blacklist import BlacklistToken
 from ..config import key
 import jwt
 from typing import Union
